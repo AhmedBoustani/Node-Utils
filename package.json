@@ -1,0 +1,33 @@
+{
+  "name": "node-utils",
+  "version": "1.0.0",
+  "description": "Helper functions for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedBoustani/Node-Utils.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ahmed Amine Boustani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmedBoustani/Node-Utils/issues"
+  },
+  "homepage": "https://github.com/AhmedBoustani/Node-Utils#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.9.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-babel": "^4.1.2",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
