@@ -1,2 +1,2 @@
 # Node-Utils
-Util function for Node.js
+Some useful libraries for Node.js
