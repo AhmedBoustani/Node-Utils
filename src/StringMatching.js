@@ -4,7 +4,7 @@
  *  the number of edits (insert, remove, replace) necessary to match them
  * @param  {[string]} str
  * @param  {[string]} pat
- * @return {[integer]}
+ * @return {[int]}
  */
 function editDist (str, pat) {
   const slen = str.length
